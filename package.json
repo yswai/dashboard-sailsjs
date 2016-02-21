@@ -27,7 +27,7 @@
   },
   "scripts": {
     "debug": "node debug app.js",
-    "start": "node app.js"
+    "pm2": "pm2 start app.js"
   },
   "main": "app.js",
   "repository": {
